@@ -1,0 +1,6 @@
+{
+  "name": "termkit",
+  "version": "0.1.0",
+  "description": "The termkit hub: /tools lists every termkit tool, which ones you have, and how to add the rest",
+  "author": { "name": "tirupathipodugu" }
+}

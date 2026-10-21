@@ -1,0 +1,9 @@
+{
+  "name": "window-board",
+  "version": "0.1.0",
+  "description": "A pane listing every Claude Code window: needs you, working or done, and what each is on",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "tirupathipodugu"
+  }
+}

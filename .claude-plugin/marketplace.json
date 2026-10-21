@@ -1,0 +1,22 @@
+{
+  "name": "termkit",
+  "owner": { "name": "tirupathipodugu" },
+  "metadata": { "description": "Dev tools for the Claude Code terminal" },
+  "plugins": [
+    {
+      "name": "termkit",
+      "source": "./plugins/termkit",
+      "description": "The hub: /tools lists every termkit tool, which you have, and how to add the rest"
+    },
+    {
+      "name": "window-board",
+      "source": "./plugins/window-board",
+      "description": "/sessions: every Claude Code window at a glance (needs you, working, done), plus search and resume for closed sessions"
+    },
+    {
+      "name": "dino-wait",
+      "source": "./plugins/dino-wait",
+      "description": "/dino: a Chrome-dino runner above the prompt while Claude works; pauses when Claude is done"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "dino-wait",
+  "version": "0.3.2",
+  "description": "A Chrome-dino style runner to play in the terminal while Claude is working",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "tirupathipodugu"
+  }
+}
