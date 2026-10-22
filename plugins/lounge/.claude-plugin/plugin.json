@@ -1,0 +1,9 @@
+{
+  "name": "lounge",
+  "version": "0.1.0",
+  "description": "/connect: chat with everyone using termkit, in a pane beside Claude",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "tirupathipodugu"
+  }
+}

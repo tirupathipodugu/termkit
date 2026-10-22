@@ -1,7 +1,11 @@
 {
   "name": "termkit",
-  "owner": { "name": "tirupathipodugu" },
-  "metadata": { "description": "Dev tools for the Claude Code terminal" },
+  "owner": {
+    "name": "tirupathipodugu"
+  },
+  "metadata": {
+    "description": "Dev tools for the Claude Code terminal"
+  },
   "plugins": [
     {
       "name": "termkit",
@@ -17,6 +21,11 @@
       "name": "dino-wait",
       "source": "./plugins/dino-wait",
       "description": "/dino: a Chrome-dino runner above the prompt while Claude works; pauses when Claude is done"
+    },
+    {
+      "name": "lounge",
+      "source": "./plugins/lounge",
+      "description": "/connect: chat with everyone using termkit, in a pane beside Claude"
     }
   ]
 }

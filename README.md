@@ -9,6 +9,7 @@ Dev tools for the Claude Code terminal. Each tool is a Claude Code plugin: insta
 | [termkit](plugins/termkit) | The hub. `/tools` lists every termkit tool, which ones you have, and the line that adds each of the rest. |
 | [window-board](plugins/window-board) | `/sessions`: a pane with every open Claude Code window, coloured by what it needs (needs you, working, done); click one to switch to it. Closed sessions are searchable by what you talked about, and a click resumes one in a new tab. |
 | [dino-wait](plugins/dino-wait) | `/dino`: a Chrome-dino runner above the prompt while Claude works. It pauses when Claude finishes and picks up after a 3-2-1 when Claude starts again. |
+| [lounge](plugins/lounge) | /connect: chat with everyone using termkit, in a pane beside Claude |
 <!-- tools:end -->
 
 ## Install
