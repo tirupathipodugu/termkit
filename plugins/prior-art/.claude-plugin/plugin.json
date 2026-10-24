@@ -1,7 +1,7 @@
 {
   "name": "prior-art",
   "version": "0.1.0",
-  "description": "/prior: a pane beside Claude that shows who has already worked on your task and how they did it",
+  "description": "/prior: a pane beside Claude that reads the chat as you work and shows who already solved what you are on, and how",
   "author": {
     "name": "tirupathipodugu"
   },
