@@ -1,0 +1,9 @@
+{
+  "name": "prior-art",
+  "version": "0.1.0",
+  "description": "/prior: a pane beside Claude that shows who has already worked on your task and how they did it",
+  "author": {
+    "name": "tirupathipodugu"
+  },
+  "types": "./types/index.d.ts"
+}

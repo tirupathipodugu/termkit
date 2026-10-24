@@ -26,6 +26,11 @@
       "name": "lounge",
       "source": "./plugins/lounge",
       "description": "/connect: chat with everyone using termkit, in a pane beside Claude"
+    },
+    {
+      "name": "prior-art",
+      "source": "./plugins/prior-art",
+      "description": "/prior: a pane beside Claude that shows who has already worked on your task and how they did it"
     }
   ]
 }
