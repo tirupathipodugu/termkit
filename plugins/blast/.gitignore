@@ -1,0 +1,4 @@
+.claude-plugin/types/
+app/bin/
+app/obj/
+app/test/frames/

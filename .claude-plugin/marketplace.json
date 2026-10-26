@@ -31,6 +31,11 @@
       "name": "prior-art",
       "source": "./plugins/prior-art",
       "description": "/prior: a pane beside Claude that reads the chat as you work and shows who already solved what you are on, and how"
+    },
+    {
+      "name": "blast",
+      "source": "./plugins/blast",
+      "description": "/blast: a grenade lands on this terminal, sends Ctrl+C, then blows the window into a thousand pieces (Windows)"
     }
   ]
 }

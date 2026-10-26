@@ -3,3 +3,4 @@ node_modules/
 *.log
 *.exe
 .DS_Store
+!plugins/blast/bin/TerminalBlast.exe

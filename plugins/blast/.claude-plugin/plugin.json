@@ -1,0 +1,8 @@
+{
+  "name": "blast",
+  "version": "0.1.0",
+  "description": "/blast: a grenade lands on this terminal, sends Ctrl+C, then blows the window into a thousand pieces (Windows)",
+  "author": {
+    "name": "tirupathipodugu"
+  }
+}
