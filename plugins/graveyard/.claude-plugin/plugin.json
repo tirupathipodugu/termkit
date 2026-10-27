@@ -1,0 +1,9 @@
+{
+  "name": "graveyard",
+  "version": "0.1.0",
+  "description": "/graveyard: everything you started with Claude and never finished, from your sessions and repos, and one command to pick it back up",
+  "author": {
+    "name": "tirupathipodugu"
+  },
+  "types": "./types/index.d.ts"
+}

@@ -36,6 +36,11 @@
       "name": "blast",
       "source": "./plugins/blast",
       "description": "/blast: a grenade lands on this terminal, sends Ctrl+C, then blows the window into a thousand pieces (Windows)"
+    },
+    {
+      "name": "graveyard",
+      "source": "./plugins/graveyard",
+      "description": "/graveyard: everything you started with Claude and never finished, from your sessions and repos, and one command to pick it back up"
     }
   ]
 }

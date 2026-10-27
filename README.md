@@ -12,6 +12,7 @@ Dev tools for the Claude Code terminal. Each tool is a Claude Code plugin: insta
 | [lounge](plugins/lounge) | /connect: chat with everyone using termkit, in a pane beside Claude |
 | [prior-art](plugins/prior-art) | `/prior`: a pane beside Claude that reads the chat as you work. When you start a task, hit an error or pick an approach, it finds who already did it on GitHub, Reddit, X and the web, how they did it, and what to do now. Your chat is never posted. |
 | [blast](plugins/blast) | `/blast`: a grenade lands on this terminal, Ctrl+C ends Claude, and the window explodes into a thousand pieces (Windows). |
+| [graveyard](plugins/graveyard) | `/graveyard`: everything you started with Claude and never finished, dug up from your sessions and repos (chats left mid-task, empty branches and folders, uncommitted work). Says when a new task was started before, and `/graveyard raise N` picks one up where it stopped. |
 <!-- tools:end -->
 
 ## Install
